@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/OptimalISO.dir/OptimalISO.cpp.o  -o OptimalISO  -Wl,-rpath,/media/giuseppe/DATA/codes/git-RBM-steady/build ../libMODES.so.0.0.1 

@@ -1,0 +1,4 @@
+/home/giuseppe/Programmi/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/giuseppe/DATA/codes/git-RBM-steady
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/giuseppe/DATA/codes/git-RBM-steady/cmake-build-debug
